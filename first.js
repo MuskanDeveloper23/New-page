@@ -74,8 +74,8 @@ function drop(event) {
     draggedElement.textContent = data;
     document.getElementById('dropZone').appendChild(draggedElement);
 } */
-let x = 5;
-if( x > 5 ){
+let x = 7;
+if( x > 7 ){
     console.log("x is greater then than 5");
 }
     
